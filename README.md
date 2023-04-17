@@ -36,3 +36,4 @@ https://www.youtube.com/watch?v=pyxGEDwbvNY
 
 -------------------------------------------------
 kóðinn heititr (SimonSays.ino) og er arduino kóði.
+[linkur inná kóðan](https://github.com/Dedneyder/Verkefni-fangi-1/blob/main/forrit.ino) 

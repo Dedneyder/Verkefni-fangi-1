@@ -2,7 +2,7 @@
 VESM1VS/Verkefni 3
 Björgvin Þeyr Guðmundsson
 
-Ég bjó til simon says spill með Arduino IDE og Arduino PLUS.
+Ég bjó til simon says spill með Arduino IDE og notaði Arduino PLUS móðurborð.
 
 
 -------------------------------------

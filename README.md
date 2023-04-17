@@ -33,6 +33,14 @@ Nærmynd af lóðuninni.
 vídéó af virkni boxins.
 https://www.youtube.com/watch?v=pyxGEDwbvNY
 
+-----------------------
+-----------------------
+
+Mynd af hönnun kassans.
+![box simon says Björgvin Þeyr Guðmundsson strecthed F](https://user-images.githubusercontent.com/129172410/232489710-c661ff4e-e35e-444b-9d48-86b84136acab.svg)
+
+
+
 
 -------------------------------------------------
 kóðinn heititr (SimonSays.ino) og er arduino kóði.
